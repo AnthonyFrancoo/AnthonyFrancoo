@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Anthony Franco; 
 
-- 🎉Tenho 21 anos 
+- 🎉Tenho 22 anos 
 - 🤖 Eu sou apaixonado por tecnologia;
-- 🌱 Atualmente eu estou estudando C# e .NET;
+- 🌱 Atualmente eu estou estudando JAVA;
 
 <div> 
   <a href="https://www.instagram.com/anthonyfranco__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
